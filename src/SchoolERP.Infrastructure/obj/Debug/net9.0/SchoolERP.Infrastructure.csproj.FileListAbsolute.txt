@@ -1,0 +1,63 @@
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.deps.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.runtimeconfig.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Application.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Domain.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Shared.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Application.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Domain.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Shared.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.AssemblyInfo.cs
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolER.18075EDA.Up2Date
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\refint\SchoolERP.Infrastructure.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.genruntimeconfig.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Infrastructure\obj\Debug\net9.0\ref\SchoolERP.Infrastructure.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.deps.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.runtimeconfig.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Domain.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Shared.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Application.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Domain.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Shared.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.csproj.AssemblyReference.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.AssemblyInfoInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.AssemblyInfo.cs
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.csproj.CoreCompileInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolER.18075EDA.Up2Date
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\refint\SchoolERP.Infrastructure.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.genruntimeconfig.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\ref\SchoolERP.Infrastructure.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.deps.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.runtimeconfig.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Infrastructure.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Domain.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Shared.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Application.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Domain.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\bin\Debug\net9.0\SchoolERP.Shared.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.csproj.AssemblyReference.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.AssemblyInfoInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.AssemblyInfo.cs
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolER.18075EDA.Up2Date
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\refint\SchoolERP.Infrastructure.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\SchoolERP.Infrastructure.genruntimeconfig.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Infrastructure\obj\Debug\net9.0\ref\SchoolERP.Infrastructure.dll

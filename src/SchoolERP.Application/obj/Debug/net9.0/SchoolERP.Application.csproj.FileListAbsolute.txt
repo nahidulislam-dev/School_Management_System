@@ -1,0 +1,45 @@
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.deps.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Domain.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Domain.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.csproj.AssemblyReference.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.AssemblyInfoInputs.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.AssemblyInfo.cs
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.csproj.CoreCompileInputs.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolER.58BBEFC2.Up2Date
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\refint\SchoolERP.Application.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Application\obj\Debug\net9.0\ref\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.deps.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Domain.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Domain.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.csproj.AssemblyReference.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.AssemblyInfoInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.AssemblyInfo.cs
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.csproj.CoreCompileInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolER.58BBEFC2.Up2Date
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\refint\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\ref\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.deps.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Application.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Domain.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\bin\Debug\net9.0\SchoolERP.Domain.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.csproj.AssemblyReference.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.AssemblyInfoInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.AssemblyInfo.cs
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.csproj.CoreCompileInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolER.58BBEFC2.Up2Date
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\refint\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\SchoolERP.Application.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Application\obj\Debug\net9.0\ref\SchoolERP.Application.dll

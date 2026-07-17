@@ -1,0 +1,357 @@
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_SchoolERP.Application.Tests
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_SchoolERP.Application.Tests
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\testhost.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\testhost.exe
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.deps.json
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.runtimeconfig.json
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.pdb
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\AutoMapper.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\FluentValidation.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\MediatR.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\MediatR.Contracts.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Features.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.abstractions.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.assert.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.core.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Domain.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.pdb
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Domain.pdb
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.csproj.AssemblyReference.cache
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.AssemblyInfoInputs.cache
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.AssemblyInfo.cs
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.csproj.CoreCompileInputs.cache
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolER.DF7767D1.Up2Date
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\refint\SchoolERP.Application.Tests.dll
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.pdb
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.genruntimeconfig.cache
+E:\masum\files\SchoolERP\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\ref\SchoolERP.Application.Tests.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_SchoolERP.Application.Tests
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_SchoolERP.Application.Tests
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\testhost.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\testhost.exe
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.deps.json
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.runtimeconfig.json
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.pdb
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\AutoMapper.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\FluentValidation.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\MediatR.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\MediatR.Contracts.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Features.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.assert.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.core.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Domain.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.pdb
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Domain.pdb
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.csproj.AssemblyReference.cache
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.AssemblyInfoInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.AssemblyInfo.cs
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.csproj.CoreCompileInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolER.DF7767D1.Up2Date
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\refint\SchoolERP.Application.Tests.dll
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.pdb
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.genruntimeconfig.cache
+E:\masum\SchoolERP (1)\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\ref\SchoolERP.Application.Tests.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_SchoolERP.Application.Tests
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_SchoolERP.Application.Tests
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\testhost.exe
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\testhost.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.visualstudio.testadapter.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.runner.utility.netcoreapp10.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.deps.json
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.runtimeconfig.json
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.Tests.pdb
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\AutoMapper.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\FluentValidation.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\MediatR.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.AspNetCore.Http.Features.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.assert.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.core.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\xunit.execution.dotnet.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Domain.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Application.pdb
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\bin\Debug\net9.0\SchoolERP.Domain.pdb
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.csproj.AssemblyReference.cache
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.AssemblyInfoInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.AssemblyInfo.cs
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.csproj.CoreCompileInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolER.DF7767D1.Up2Date
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\refint\SchoolERP.Application.Tests.dll
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.pdb
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\SchoolERP.Application.Tests.genruntimeconfig.cache
+D:\Final_Project_SMS\API\SchoolERP\tests\SchoolERP.Application.Tests\obj\Debug\net9.0\ref\SchoolERP.Application.Tests.dll

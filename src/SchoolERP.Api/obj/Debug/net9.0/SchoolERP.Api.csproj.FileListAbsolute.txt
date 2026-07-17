@@ -1,0 +1,558 @@
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\appsettings.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.staticwebassets.runtime.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.staticwebassets.endpoints.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.exe
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.deps.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.runtimeconfig.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Humanizer.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\MediatR.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Application.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Domain.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Infrastructure.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Shared.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Application.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Infrastructure.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Shared.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Domain.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.csproj.AssemblyReference.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.AssemblyInfoInputs.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.AssemblyInfo.cs
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.csproj.CoreCompileInputs.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\scopedcss\bundle\SchoolERP.Api.styles.css
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolER.27790CB6.Up2Date
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\refint\SchoolERP.Api.dll
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.pdb
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.genruntimeconfig.cache
+C:\Users\h\Downloads\SchoolERP-Result-Management-Module\src\SchoolERP.Api\obj\Debug\net9.0\ref\SchoolERP.Api.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\appsettings.Development.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\appsettings.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.staticwebassets.endpoints.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.staticwebassets.runtime.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.exe
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.deps.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.runtimeconfig.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\AutoMapper.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Azure.Core.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Azure.Identity.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\FluentValidation.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Humanizer.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\MediatR.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.ClientModel.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.CodeDom.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Memory.Data.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Text.Json.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Application.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Domain.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Infrastructure.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Shared.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Application.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Infrastructure.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Shared.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Domain.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.csproj.AssemblyReference.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.AssemblyInfoInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.AssemblyInfo.cs
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.csproj.CoreCompileInputs.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\scopedcss\bundle\SchoolERP.Api.styles.css
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.development.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolER.27790CB6.Up2Date
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\refint\SchoolERP.Api.dll
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.pdb
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.genruntimeconfig.cache
+E:\masum\SchoolERP (1)\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\ref\SchoolERP.Api.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\appsettings.Development.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\appsettings.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.staticwebassets.runtime.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.staticwebassets.endpoints.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.exe
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.deps.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.runtimeconfig.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Api.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\AutoMapper.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Azure.Core.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Azure.Identity.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\FluentValidation.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Humanizer.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\MediatR.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\MediatR.Contracts.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.ClientModel.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.CodeDom.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Diagnostics.DiagnosticSource.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Text.Json.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Application.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Domain.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Infrastructure.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Shared.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Application.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Infrastructure.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Shared.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\bin\Debug\net9.0\SchoolERP.Domain.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.csproj.AssemblyReference.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.AssemblyInfoInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.AssemblyInfo.cs
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.csproj.CoreCompileInputs.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\scopedcss\bundle\SchoolERP.Api.styles.css
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.development.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolER.27790CB6.Up2Date
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\refint\SchoolERP.Api.dll
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.pdb
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\SchoolERP.Api.genruntimeconfig.cache
+D:\Final_Project_SMS\API\SchoolERP\src\SchoolERP.Api\obj\Debug\net9.0\ref\SchoolERP.Api.dll
